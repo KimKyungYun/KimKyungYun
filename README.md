@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=4FD08D&text=도토리%20잔디밭&reversal=false&textBg=false&fontColor=222222&fontSize=70&fontAlign=50&fontAlignY=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=4FD08D&text=도토리%20잔디밭&reversal=false&textBg=false&fontColor=222222&fontSize=70&fontAlign=50&fontAlignY=50" />
   <details align="center">
     <summary>
       🔭 I’m currently working on ...
