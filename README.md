@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=4FD08D&text=도토리%20잔디밭&reversal=false&textBg=false&fontColor=222222&fontSize=70&fontAlign=50&fontAlignY=50" />
-  <details align="center">
+  <details align="center" >
     <summary>
     <h3 align="center">✨ Tech Stack ✨</h3>
     </summary>
@@ -10,5 +10,4 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   </details>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KimKyungYun&show_icons=true&theme=radical"/>  
 </div>
